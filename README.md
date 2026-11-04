@@ -4,8 +4,6 @@
 **Course:** CS464 · Game Development · ITU Fall 2026  
 **Assignment:** 03 — Collect, Dodge, Survive  
 
-> **Note:** No Assignment 02 repo exists for this student. This project was started from `CS464-A1-BSCS24088` and built up to meet all A3 requirements, as permitted by the assignment brief.
-
 ---
 
 ## Controls

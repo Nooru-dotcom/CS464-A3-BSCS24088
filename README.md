@@ -68,7 +68,7 @@ Unity's physics engine only fires `OnTriggerEnter`/`OnTriggerStay`/`OnTriggerExi
 
 ## Video Walkthrough
 
-🎥 **[Watch on YouTube (unlisted)](https://youtu.be/PLACEHOLDER)** — *(link will be updated after recording)*
+🎥 **[Watch on Gdrive (unlisted)](https://drive.google.com/file/d/19XV5dgni1mMYwSiXZGTGUSw-lOx1OlRx/view?usp=sharing)** — **
 
 The video shows: all five levels played through, at least one life lost, a full game-over loss, and a clean win.
 
